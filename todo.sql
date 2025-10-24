@@ -42,9 +42,6 @@ CREATE TABLE `todo` (
 INSERT INTO `todo` (`id`, `title`, `description`, `createdAt`, `status`) VALUES
 (9, 'new', 'new time', '2025-10-24 16:14:58', 'active'),
 (10, 'New 1', 'heheh ', '2025-10-24 16:17:58', 'active'),
-(11, 'hy', 'what happen', '2025-10-24 16:18:15', 'active'),
-(12, 'huuuu', 'dddd', '2025-10-24 16:18:31', 'completed'),
-(13, 'ane ane', 'hhhh', '2025-10-24 16:18:43', 'active');
 
 --
 -- Indexes for dumped tables
