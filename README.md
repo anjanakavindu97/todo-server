@@ -4,7 +4,7 @@
 
 start XAMPP server 
 
-create table "todo"
+import given "todo" table to the database
 
 ## Create env file
 
@@ -21,7 +21,11 @@ DB_PASSWORD=
 DB_NAME=
 
 ## Install packages
+```js
 npm install
+```
 
 ## Run server
+```js
 npm run dev
+```
