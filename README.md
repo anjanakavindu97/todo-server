@@ -1,5 +1,9 @@
 # TODO Application Server
 
+## Recomended node version
+
+v22.20.0
+
 ## Setup database
 
 start XAMPP server 
